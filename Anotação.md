@@ -9,7 +9,7 @@
 
 ## Enviando as próximas versões
 1. git add. -> adiciona os arquivos para o repositório local
-2.git commit  -m "primeira versão do sistema"
+2. git commit  -m "primeira versão do sistema"
 3. git push -u origin main
 
 
